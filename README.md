@@ -521,5 +521,5 @@ protected void onStop() {
  * 修改指示器样式
  * 增加5种轮播样式，更加灵活方便的运用轮播控件，满足项目需求
 
-
+注意：很多人集成的时候遇到了同样的问题，就是项目报错Binary XML file line #36: Error inflating class，原因是 layout文件里有banner.xml文件，与本项目冲突
 
